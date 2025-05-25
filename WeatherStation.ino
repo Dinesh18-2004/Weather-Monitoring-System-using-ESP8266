@@ -7,11 +7,11 @@
 #include <ArduinoJson.h>
 
 // WiFi Credentials
-const char* ssid = "dhruv";
-const char* password = "7892686064";
+const char* ssid = "username";
+const char* password = "password";
 
 // OpenWeatherMap API Key
-String apiKey = "ac04718d80c558277bd1838c52f865ed";
+String apiKey = "replace with your API Key";
 
 // DHT Sensor Settings
 #define DHTPIN D2
